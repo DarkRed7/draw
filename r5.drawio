@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T14:52:26.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.4" etag="z7aab8TmGCN4o0HI3vJL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T10:04:20.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5MzKEsKJsG-hsMkTdZB2" version="20.8.5" type="github">
   <diagram id="HdVOFT3m-IV8WaJRp9Jy" name="Page-1">
-    <mxGraphModel dx="693" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hqcta7EbTfVsAT5cjty3-1" target="Hqcta7EbTfVsAT5cjty3-2">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hqcta7EbTfVsAT5cjty3-1" target="Hqcta7EbTfVsAT5cjty3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-1" value="Hyperautomation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-1" value="Hyperautomation&amp;nbsp;&lt;br&gt;Anton (M4)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-4">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-5">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-3">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-6">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Hqcta7EbTfVsAT5cjty3-2" target="Hqcta7EbTfVsAT5cjty3-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-2" value="Artificial Intelligence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-2" value="Artificial Intelligence&lt;br&gt;Jason (M3)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-3" value="AI Engineering Teams" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-3" value="AI Engineering Teams" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-4" value="AI Product Teams" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-4" value="AI Product Teams" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-5" value="AI Ethics and Governance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-5" value="AI Ethics and Governance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqcta7EbTfVsAT5cjty3-6" value="R5 - works across teams; consult on imaging and computer vision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqcta7EbTfVsAT5cjty3-6" value="&lt;font color=&quot;#ffffff&quot;&gt;R5 - works across teams; consult on imaging and computer vision (R5)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#00857C;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
